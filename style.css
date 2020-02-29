@@ -1,0 +1,30 @@
+
+body{
+    text-align: center;
+    font-family: 'Oxanium';
+}
+
+ .bb {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border: solid black 0.01rem;
+}
+
+#container {
+    display: flex;
+    height: 60%;
+}
+
+#lef {
+    width: 15%;
+}
+
+#content {
+    width: 80%;
+    height: 60%;
+}
+
+.fnt {
+    font-size: 0.7rem;
+}
+
